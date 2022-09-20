@@ -17,6 +17,7 @@
     font-weight: 700;
   }
   
+  
   @media (min-width: 992px) {
     .show-center {
       grid-template-columns: 1fr 1fr;
